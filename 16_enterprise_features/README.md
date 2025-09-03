@@ -923,7 +923,7 @@ if __name__ == "__main__":
 
 ## 🚀 Production Deployment
 
-### Docker Compose Setup
+### Docker Compose Setup for yaml
 
 ```yaml
 # docker-compose.yml
